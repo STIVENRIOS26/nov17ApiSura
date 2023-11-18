@@ -9,5 +9,4 @@ public class KonectaApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(KonectaApiApplication.class, args);
 	}
-
 }
